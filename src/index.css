@@ -1,0 +1,32 @@
+html {
+   box-sizing: border-box;
+   font-size: 15px;
+   font-family: sans-serif;
+   background-color: #1b1b1b;
+   color: white;
+}
+
+*,
+*:after,
+*::before {
+   box-sizing: inherit;
+}
+
+body {
+   margin: 0;
+}
+
+a {
+   color: lightskyblue;
+   text-decoration: none;
+   padding: 0 0.5rem;
+}
+
+h1 {
+   color: skyblue;
+   text-align: center;
+}
+
+header {
+   padding: 0.5rem;
+}
